@@ -1,1 +1,3 @@
 # ParticleSim
+
+Natasha Proctor
